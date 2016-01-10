@@ -1,0 +1,24 @@
+[14:39:00] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[14:39:00] [Server thread/INFO]: Loading properties
+[14:39:00] [Server thread/INFO]: Default game type: SURVIVAL
+[14:39:00] [Server thread/INFO]: Generating keypair
+[14:39:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:39:01] [Server thread/INFO]: Using epoll channel type
+[14:39:01] [Server thread/INFO]: Preparing level "world"
+[14:39:01] [Server thread/INFO]: Preparing start region for level 0
+[14:39:02] [Server thread/INFO]: Preparing spawn area: 56%
+[14:39:03] [Server thread/INFO]: Done (2.136s)! For help, type "help" or "?"
+[14:39:36] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[14:39:36] [Server thread/INFO]: Razven[/107.207.39.71:49845] logged in with entity id 348 at (-18.878184286912127, 67.0, 255.8307306096895)
+[14:39:36] [Server thread/INFO]: Razven joined the game
+[14:40:31] [User Authenticator #2/INFO]: UUID of player ALEXGAMINGKID is e528a8ed-a3c4-4282-ba8d-58d89670e686
+[14:40:31] [Server thread/INFO]: ALEXGAMINGKID[/174.117.90.66:59113] logged in with entity id 3192 at (-40.5, 63.0, 248.5)
+[14:40:31] [Server thread/INFO]: ALEXGAMINGKID joined the game
+[14:42:34] [Server thread/INFO]: Razven has just earned the achievement [Taking Inventory]
+[14:42:36] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Taking Inventory]
+[14:42:43] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Getting Wood]
+[14:43:06] [Server thread/INFO]: Razven has just earned the achievement [Getting Wood]
+[14:47:51] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Benchmarking]
+[14:48:19] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Time to Mine!]
+[14:57:28] [Server thread/INFO]: ALEXGAMINGKID was burnt to a crisp whilst fighting Zombie
+[15:10:33] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Hot Topic]
