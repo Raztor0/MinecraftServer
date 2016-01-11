@@ -1,33 +1,38 @@
-[14:39:00] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[14:39:00] [Server thread/INFO]: Loading properties
-[14:39:00] [Server thread/INFO]: Default game type: SURVIVAL
-[14:39:00] [Server thread/INFO]: Generating keypair
-[14:39:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:39:01] [Server thread/INFO]: Using epoll channel type
-[14:39:01] [Server thread/INFO]: Preparing level "world"
-[14:39:01] [Server thread/INFO]: Preparing start region for level 0
-[14:39:02] [Server thread/INFO]: Preparing spawn area: 56%
-[14:39:03] [Server thread/INFO]: Done (2.136s)! For help, type "help" or "?"
-[14:39:36] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
-[14:39:36] [Server thread/INFO]: Razven[/107.207.39.71:49845] logged in with entity id 348 at (-18.878184286912127, 67.0, 255.8307306096895)
-[14:39:36] [Server thread/INFO]: Razven joined the game
-[14:40:31] [User Authenticator #2/INFO]: UUID of player ALEXGAMINGKID is e528a8ed-a3c4-4282-ba8d-58d89670e686
-[14:40:31] [Server thread/INFO]: ALEXGAMINGKID[/174.117.90.66:59113] logged in with entity id 3192 at (-40.5, 63.0, 248.5)
-[14:40:31] [Server thread/INFO]: ALEXGAMINGKID joined the game
-[14:42:34] [Server thread/INFO]: Razven has just earned the achievement [Taking Inventory]
-[14:42:36] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Taking Inventory]
-[14:42:43] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Getting Wood]
-[14:43:06] [Server thread/INFO]: Razven has just earned the achievement [Getting Wood]
-[14:47:51] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Benchmarking]
-[14:48:19] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Time to Mine!]
-[14:57:28] [Server thread/INFO]: ALEXGAMINGKID was burnt to a crisp whilst fighting Zombie
-[15:10:33] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Hot Topic]
-[15:26:21] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Time to Farm!]
-[15:40:36] [Server thread/INFO]: Razven has just earned the achievement [Benchmarking]
-[15:40:53] [Server thread/INFO]: Razven has just earned the achievement [Time to Mine!]
-[15:40:53] [Server thread/INFO]: Razven has just earned the achievement [Getting an Upgrade]
-[15:48:35] [Server thread/INFO]: <ALEXGAMINGKID> Ms.Tities
-[16:01:27] [Server thread/INFO]: ALEXGAMINGKID lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:01:27] [Server thread/INFO]: ALEXGAMINGKID left the game
-[16:01:29] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:01:29] [Server thread/INFO]: Razven left the game
+[20:10:21] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[20:10:21] [Server thread/INFO]: Loading properties
+[20:10:21] [Server thread/INFO]: Default game type: SURVIVAL
+[20:10:21] [Server thread/INFO]: Generating keypair
+[20:10:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:10:22] [Server thread/INFO]: Using epoll channel type
+[20:10:22] [Server thread/INFO]: Preparing level "world"
+[20:10:22] [Server thread/INFO]: Preparing start region for level 0
+[20:10:25] [Server thread/INFO]: Preparing spawn area: 19%
+[20:10:26] [Server thread/INFO]: Done (3.739s)! For help, type "help" or "?"
+[20:11:54] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[20:11:54] [Server thread/INFO]: Razven[/107.207.39.71:51720] logged in with entity id 390 at (70.04228036685306, 87.0, 167.50876499993777)
+[20:11:54] [Server thread/INFO]: Razven joined the game
+[20:11:55] [User Authenticator #2/INFO]: UUID of player ALEXGAMINGKID is e528a8ed-a3c4-4282-ba8d-58d89670e686
+[20:11:56] [Server thread/INFO]: ALEXGAMINGKID[/174.117.90.66:59524] logged in with entity id 536 at (71.54770506667161, 87.0, 167.02035353929062)
+[20:11:56] [Server thread/INFO]: ALEXGAMINGKID joined the game
+[20:11:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2781ms behind, skipping 55 tick(s)
+[20:14:33] [Server thread/INFO]: Razven has just earned the achievement [Time to Farm!]
+[20:35:03] [Server thread/INFO]: Razven has just earned the achievement [Time to Strike!]
+[20:40:29] [Server thread/INFO]: Razven has just earned the achievement [Monster Hunter]
+[20:41:07] [Server thread/INFO]: Razven has just earned the achievement [Hot Topic]
+[20:41:45] [Server thread/INFO]: Razven has just earned the achievement [Acquire Hardware]
+[21:00:10] [Server thread/INFO]: Razven was slain by Zombie
+[21:01:35] [Server thread/INFO]: ALEXGAMINGKID was shot by Skeleton
+[21:03:36] [Server thread/INFO]: ALEXGAMINGKID was shot by Skeleton
+[21:10:07] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Acquire Hardware]
+[21:13:17] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Time to Strike!]
+[21:13:30] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Getting an Upgrade]
+[21:17:45] [Server thread/INFO]: Razven fell from a high place
+[21:19:12] [Server thread/INFO]: Razven was shot by Skeleton
+[21:26:49] [Server thread/INFO]: ALEXGAMINGKID lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:26:49] [Server thread/INFO]: ALEXGAMINGKID left the game
+[22:28:53] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:28:53] [Server thread/INFO]: Razven left the game
+[22:29:01] [Server Shutdown Thread/INFO]: Stopping server
+[22:29:01] [Server Shutdown Thread/INFO]: Saving players
+[22:29:01] [Server Shutdown Thread/INFO]: Saving worlds
+[22:29:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
