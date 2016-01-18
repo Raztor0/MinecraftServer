@@ -1,23 +1,65 @@
-[19:07:33] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[19:07:33] [Server thread/INFO]: Loading properties
-[19:07:33] [Server thread/INFO]: Default game type: SURVIVAL
-[19:07:33] [Server thread/INFO]: Generating keypair
-[19:07:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:07:33] [Server thread/INFO]: Using default channel type
-[19:07:33] [Server thread/INFO]: Preparing level "world"
-[19:07:34] [Server thread/INFO]: Preparing start region for level 0
-[19:07:34] [Server thread/INFO]: Done (1.099s)! For help, type "help" or "?"
-[19:07:48] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
-[19:07:48] [Server thread/INFO]: Razven[/127.0.0.1:50745] logged in with entity id 422 at (71.93563781752799, 87.0, 168.08041087950468)
-[19:07:48] [Server thread/INFO]: Razven joined the game
-[19:08:09] [Server thread/INFO]: Opped razven
-[19:08:20] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
-[19:08:32] [Server thread/INFO]: [Razven: Set own game mode to Survival Mode]
-[19:10:03] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
-[19:10:13] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
-[19:10:16] [Server thread/INFO]: [Razven: Set own game mode to Survival Mode]
-[20:10:13] [Server thread/WARN]: Time ran backwards! Did the system time change?
-[20:31:23] [Server thread/INFO]: Razven has just earned the achievement [Cow Tipper]
-[21:08:26] [Server thread/INFO]: Changing to clear weather
-[23:35:32] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:35:32] [Server thread/INFO]: Razven left the game
+[17:38:09] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[17:38:09] [Server thread/INFO]: Loading properties
+[17:38:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:38:09] [Server thread/INFO]: Generating keypair
+[17:38:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:38:10] [Server thread/INFO]: Using epoll channel type
+[17:38:10] [Server thread/INFO]: Preparing level "world"
+[17:38:10] [Server thread/INFO]: Preparing start region for level 0
+[17:38:11] [Server thread/INFO]: Preparing spawn area: 31%
+[17:38:12] [Server thread/INFO]: Done (1.896s)! For help, type "help" or "?"
+[17:39:09] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[17:39:09] [Server thread/INFO]: Razven[/107.207.39.71:53451] logged in with entity id 414 at (72.53996815500469, 87.0, 166.9255614894793)
+[17:39:09] [Server thread/INFO]: Razven joined the game
+[17:40:01] [User Authenticator #2/INFO]: UUID of player ALEXGAMINGKID is e528a8ed-a3c4-4282-ba8d-58d89670e686
+[17:40:01] [Server thread/INFO]: ALEXGAMINGKID[/174.117.90.66:55766] logged in with entity id 897 at (66.30000001192093, 87.0, 167.35150093326686)
+[17:40:01] [Server thread/INFO]: ALEXGAMINGKID joined the game
+[17:40:32] [Server thread/INFO]: ALEXGAMINGKID fell off a ladder
+[17:48:44] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [DIAMONDS!]
+[17:48:44] [Server thread/INFO]: Razven has just earned the achievement [Diamonds to you!]
+[17:53:52] [Server thread/INFO]: Razven has just earned the achievement [We Need to Go Deeper]
+[17:53:53] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [We Need to Go Deeper]
+[17:54:02] [Server thread/WARN]: Razven moved wrongly!
+[17:55:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9140ms behind, skipping 182 tick(s)
+[17:58:44] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:58:44] [Server thread/INFO]: Razven left the game
+[17:58:47] [User Authenticator #3/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[17:58:47] [Server thread/INFO]: Razven[/107.207.39.71:53592] logged in with entity id 24810 at (346.47865441046315, 68.0, 506.621941284855)
+[17:58:47] [Server thread/INFO]: Razven joined the game
+[17:58:51] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:58:51] [Server thread/INFO]: Razven left the game
+[17:59:23] [User Authenticator #4/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[17:59:23] [Server thread/INFO]: Razven[/107.207.39.71:53612] logged in with entity id 25431 at (348.0434905707928, 67.0, 506.55011891777536)
+[17:59:23] [Server thread/INFO]: Razven joined the game
+[17:59:51] [Server thread/INFO]: <Razven> aaaaa
+[18:01:13] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:01:13] [Server thread/INFO]: Razven left the game
+[18:02:45] [User Authenticator #5/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[18:02:45] [Server thread/INFO]: Razven[/107.207.39.71:53815] logged in with entity id 30984 at (323.9317988406246, 76.0, 479.820506430559)
+[18:02:45] [Server thread/INFO]: Razven joined the game
+[18:02:55] [Server thread/WARN]: Razven moved too quickly! -9.579407011837247,-3.0,-8.022046848281434 (-9.579407011837247, -3.0, -8.022046848281434)
+[18:22:10] [Server thread/INFO]: ALEXGAMINGKID was fireballed by Ghast
+[18:22:49] [Server thread/INFO]: ALEXGAMINGKID lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:22:49] [Server thread/INFO]: ALEXGAMINGKID left the game
+[18:25:22] [User Authenticator #6/INFO]: UUID of player LucaBug is cb6ad017-7c7d-4a6a-8e04-266f91c3cf0a
+[18:25:22] [Server thread/INFO]: LucaBug[/174.95.211.87:60029] logged in with entity id 70829 at (-30.5, 66.0, 244.5)
+[18:25:22] [Server thread/INFO]: LucaBug joined the game
+[18:26:36] [Server thread/INFO]: LucaBug has just earned the achievement [Taking Inventory]
+[18:37:56] [User Authenticator #7/INFO]: UUID of player ALEXGAMINGKID is e528a8ed-a3c4-4282-ba8d-58d89670e686
+[18:37:56] [Server thread/INFO]: ALEXGAMINGKID[/174.117.90.66:55919] logged in with entity id 102288 at (84.5, 128.0, 150.5)
+[18:37:56] [Server thread/INFO]: ALEXGAMINGKID joined the game
+[18:40:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2309ms behind, skipping 46 tick(s)
+[18:42:14] [Server thread/INFO]: LucaBug fell from a high place
+[18:43:05] [Server thread/WARN]: Razven moved wrongly!
+[18:48:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2058ms behind, skipping 41 tick(s)
+[18:49:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2066ms behind, skipping 41 tick(s)
+[18:57:24] [Server thread/INFO]: [Razven: Teleported LucaBug to ALEXGAMINGKID]
+[19:00:30] [Server thread/WARN]: Razven moved wrongly!
+[19:00:31] [Server thread/WARN]: Razven moved wrongly!
+[19:04:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2419ms behind, skipping 48 tick(s)
+[19:05:11] [Server thread/INFO]: ALEXGAMINGKID tried to swim in lava
+[19:06:22] [Server thread/INFO]: ALEXGAMINGKID lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:06:22] [Server thread/INFO]: ALEXGAMINGKID left the game
+[19:16:10] [Server thread/INFO]: LucaBug fell from a high place
+[19:33:05] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:33:05] [Server thread/INFO]: Razven left the game
