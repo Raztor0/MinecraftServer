@@ -3,5 +3,5 @@ rm -rf .git
 git init
 git add .
 git commit -m "Deleted old backups"
-git remote add origin git@github.com:Raztor0/MinecraftServer.git
-git push -u --force origin master
+git remote add origin https://github.com/Raztor0/MinecraftServer
+git push -u --force origin HEAD
