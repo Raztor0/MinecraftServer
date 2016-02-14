@@ -1,20 +1,16 @@
-[11:54:38] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[11:54:38] [Server thread/INFO]: Loading properties
-[11:54:38] [Server thread/INFO]: Default game type: SURVIVAL
-[11:54:38] [Server thread/INFO]: Generating keypair
-[11:54:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:54:38] [Server thread/INFO]: Using default channel type
-[11:54:38] [Server thread/INFO]: Preparing level "world"
-[11:54:38] [Server thread/INFO]: Preparing start region for level 0
-[11:54:39] [Server thread/INFO]: Preparing spawn area: 62%
-[11:54:40] [Server thread/INFO]: Done (1.460s)! For help, type "help" or "?"
-[11:54:43] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
-[11:54:43] [Server thread/INFO]: Razven[/127.0.0.1:49730] logged in with entity id 653 at (-54.165370555225934, 185.86436043542733, 229.65845941737993)
-[11:54:43] [Server thread/INFO]: Razven joined the game
-[11:54:46] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
-[11:57:09] [Server thread/INFO]: [Razven: 4180 blocks filled]
-[11:57:16] [Server thread/INFO]: [Razven: 3 blocks filled]
-[11:57:26] [Server thread/INFO]: [Razven: 1253 blocks filled]
-[12:03:51] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[12:03:51] [Server thread/INFO]: Razven left the game
-[12:03:54] [Server Shutdown Thread/INFO]: Stopping server
+[12:16:38] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[12:16:38] [Server thread/INFO]: Loading properties
+[12:16:38] [Server thread/INFO]: Default game type: SURVIVAL
+[12:16:38] [Server thread/INFO]: Generating keypair
+[12:16:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:16:38] [Server thread/INFO]: Using default channel type
+[12:16:39] [Server thread/INFO]: Preparing level "world"
+[12:16:39] [Server thread/INFO]: Preparing start region for level 0
+[12:16:40] [Server thread/INFO]: Preparing spawn area: 40%
+[12:16:40] [Server thread/INFO]: Done (1.920s)! For help, type "help" or "?"
+[12:16:42] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[12:16:42] [Server thread/INFO]: Razven[/127.0.0.1:49826] logged in with entity id 612 at (-4.117499483466214, 156.95078365955342, 256.9740339473848)
+[12:16:42] [Server thread/INFO]: Razven joined the game
+[12:16:49] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
+[12:17:42] [Server thread/INFO]: [Razven: Set the time to 0]
+[12:25:28] [Server thread/INFO]: [Razven: Changing to clear weather]
