@@ -15,3 +15,6 @@
 [11:57:09] [Server thread/INFO]: [Razven: 4180 blocks filled]
 [11:57:16] [Server thread/INFO]: [Razven: 3 blocks filled]
 [11:57:26] [Server thread/INFO]: [Razven: 1253 blocks filled]
+[12:03:51] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:03:51] [Server thread/INFO]: Razven left the game
+[12:03:54] [Server Shutdown Thread/INFO]: Stopping server
