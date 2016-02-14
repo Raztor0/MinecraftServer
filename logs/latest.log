@@ -14,3 +14,6 @@
 [12:16:49] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
 [12:17:42] [Server thread/INFO]: [Razven: Set the time to 0]
 [12:25:28] [Server thread/INFO]: [Razven: Changing to clear weather]
+[12:41:41] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:41:41] [Server thread/INFO]: Razven left the game
+[12:41:45] [Server Shutdown Thread/INFO]: Stopping server
