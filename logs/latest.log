@@ -1,116 +1,14 @@
-[04:42:59] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[04:42:59] [Server thread/INFO]: Loading properties
-[04:42:59] [Server thread/INFO]: Default game type: SURVIVAL
-[04:42:59] [Server thread/INFO]: Generating keypair
-[04:42:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:42:59] [Server thread/INFO]: Using epoll channel type
-[04:43:00] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[04:43:00] [Server thread/INFO]: [VillageInfo] Loading VillageInfo v5.188
-[04:43:00] [Server thread/INFO]: Preparing level "world"
-[04:43:00] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4458312405525442659)
-[04:43:01] [Server thread/INFO]: Preparing spawn area: 41%
-[04:43:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4458312405525442659)
-[04:43:03] [Server thread/INFO]: Preparing spawn area: 48%
-[04:43:03] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4458312405525442659)
-[04:43:03] [Server thread/INFO]: [VillageInfo] Enabling VillageInfo v5.188
-[04:43:03] [Server thread/INFO]: [VillageInfo] Using permissions: false
-[04:43:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:43:03] [Server thread/INFO]: Done (3.426s)! For help, type "help" or "?"
-[04:43:09] [User Authenticator #2/INFO]: UUID of player Ileao is edf7f37a-c5d1-47ee-adc6-43c06be7a453
-[04:43:09] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
-[04:43:09] [Server thread/INFO]: Razven[/107.207.39.71:54756] logged in with entity id 664 at ([world_nether]-1.0553094827559557, 82.0, 31.17109036395199)
-[04:43:09] [Server thread/INFO]: Ileao[/174.113.18.110:54584] logged in with entity id 665 at ([world]-37.53712353098, 160.0, 243.55325444076254)
-[04:43:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2344ms behind, skipping 46 tick(s)
-[04:43:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2066ms behind, skipping 41 tick(s)
-[04:43:29] [Server thread/INFO]: Razven issued server command: /give razven glowstone 44
-[04:43:29] [Server thread/INFO]: [Razven: Given [Glowstone] * 44 to Razven]
-[04:43:35] [Server thread/INFO]: Razven issued server command: /tp razven ileao
-[04:43:35] [Server thread/INFO]: [Razven: Teleported Razven to Ileao]
-[04:43:41] [Server thread/INFO]: Razven issued server command: /vi
-[04:43:45] [Server thread/INFO]: Razven issued server command: /vi
-[04:43:48] [Server thread/INFO]: Razven issued server command: /vi
-[04:43:50] [Server thread/INFO]: Razven issued server command: /vi
-[04:43:52] [Server thread/INFO]: Razven issued server command: /vi
-[04:43:54] [Server thread/INFO]: Razven issued server command: /vi
-[04:43:58] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:05] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:13] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:15] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:17] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:19] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:21] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:23] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:24] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:26] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:27] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:36] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:38] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:39] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:45] [Server thread/INFO]: Razven issued server command: /vi
-[04:44:58] [Server thread/INFO]: Ileao issued server command: /vi
-[04:45:01] [Server thread/INFO]: Ileao issued server command: /vi
-[04:45:22] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:25] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:31] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:35] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:36] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:38] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:40] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:41] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:42] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:43] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:45] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:46] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:47] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:48] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:51] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:54] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:56] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:57] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:58] [Server thread/INFO]: Razven issued server command: /vi
-[04:45:59] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:01] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:02] [Netty Epoll Server IO #1/INFO]: <Razven> vi[m
-[04:46:04] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:06] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:07] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:09] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:10] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:11] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:13] [Server thread/INFO]: Razven issued server command: /tvi
-[04:46:14] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:16] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:17] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:19] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:20] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:25] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:27] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:29] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:30] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:31] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:33] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:34] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:35] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:50] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:51] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:52] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:53] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:54] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:55] [Server thread/INFO]: Razven issued server command: /vi
-[04:46:55] [Server thread/INFO]: Razven issued server command: /v
-[04:46:56] [Server thread/INFO]: Razven issued server command: /vi
-[04:47:26] [Server thread/INFO]: Razven issued server command: /v
-[04:47:26] [Server thread/INFO]: Razven issued server command: /vi
-[04:47:28] [Server thread/INFO]: Razven issued server command: /vi
-[04:47:30] [Server thread/INFO]: Razven issued server command: /vi
-[04:47:31] [Server thread/INFO]: Razven issued server command: /vi
-[04:47:36] [Server thread/INFO]: Razven issued server command: /vi
-[04:49:36] [Server thread/INFO]: Razven issued server command: /vi
-[04:49:37] [Server thread/INFO]: Razven issued server command: /vi
-[04:52:24] [Server thread/INFO]: Razven issued server command: /time set 0
-[04:52:24] [Server thread/INFO]: [Razven: Set the time to 0]
-[04:52:29] [Server thread/INFO]: Razven lost connection: Disconnected
-[04:52:29] [Server thread/INFO]: Razven left the game.
-[04:52:36] [Server thread/INFO]: Ileao lost connection: Disconnected
-[04:52:36] [Server thread/INFO]: Ileao left the game.
-[04:52:42] [Thread-4/INFO]: Stopping server
+[11:54:38] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[11:54:38] [Server thread/INFO]: Loading properties
+[11:54:38] [Server thread/INFO]: Default game type: SURVIVAL
+[11:54:38] [Server thread/INFO]: Generating keypair
+[11:54:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:54:38] [Server thread/INFO]: Using default channel type
+[11:54:38] [Server thread/INFO]: Preparing level "world"
+[11:54:38] [Server thread/INFO]: Preparing start region for level 0
+[11:54:39] [Server thread/INFO]: Preparing spawn area: 62%
+[11:54:40] [Server thread/INFO]: Done (1.460s)! For help, type "help" or "?"
+[11:54:43] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[11:54:43] [Server thread/INFO]: Razven[/127.0.0.1:49730] logged in with entity id 653 at (-54.165370555225934, 185.86436043542733, 229.65845941737993)
+[11:54:43] [Server thread/INFO]: Razven joined the game
+[11:54:46] [Server thread/INFO]: [Razven: Set own game mode to Creative Mode]
