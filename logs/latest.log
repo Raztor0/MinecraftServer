@@ -15,3 +15,6 @@
 [21:56:37] [Server thread/INFO]: You whisper to ALEXGAMINGKID: smallepin
 [21:56:50] [Server thread/INFO]: <ALEXGAMINGKID> Ha
 [22:25:41] [Server thread/INFO]: You whisper to ALEXGAMINGKID: and if your name is
+[22:33:21] [Server thread/INFO]: ALEXGAMINGKID lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:33:21] [Server thread/INFO]: ALEXGAMINGKID left the game
+[22:33:37] [Server Shutdown Thread/INFO]: Stopping server
