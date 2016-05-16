@@ -1,0 +1,16 @@
+# if permissions are not enabled
+# everyone can use this marvelous plugin
+usePermissions: false
+
+# localized global strings
+msg:
+  forbidden: Sorry, you have no permission to use this command
+  onlyPlayers: Sorry, this command is only for online players
+  notInVillage: You are not inside a Village radius
+  center: Center
+  radius: Radius
+  villagers: Villagers
+  golems: Golems
+  houses: Houses
+  reputation: Reputation
+  max: max

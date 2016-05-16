@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "3f387e9e-f45a-4539-8f3e-bafd956118d6",
+    "name": "Habjan_",
+    "created": "2016-02-10 20:59:16 -0800",
+    "source": "Razven",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "01f9c2b1-4434-4199-8ffa-bb51a988b355",
+    "name": "To_Shifty",
+    "created": "2016-02-10 20:55:02 -0800",
+    "source": "Razven",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
