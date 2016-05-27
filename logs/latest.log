@@ -1,0 +1,32 @@
+[19:32:48] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[19:32:48] [Server thread/INFO]: Loading properties
+[19:32:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:48] [Server thread/INFO]: Generating keypair
+[19:32:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:32:48] [Server thread/INFO]: Using epoll channel type
+[19:32:48] [Server thread/INFO]: Preparing level "world"
+[19:32:49] [Server thread/INFO]: Preparing start region for level 0
+[19:32:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:32:51] [Server thread/INFO]: Preparing spawn area: 62%
+[19:32:51] [Server thread/INFO]: Done (2.997s)! For help, type "help" or "?"
+[19:38:55] [User Authenticator #1/INFO]: UUID of player Boozila is d96acc5a-4acd-4a29-a6d4-c276ee6205fa
+[19:38:55] [Server thread/INFO]: Boozila[/12.24.35.251:60407] logged in with entity id 233 at (-255.56407273401834, 66.0, 247.34160036755867)
+[19:38:55] [Server thread/INFO]: Boozila joined the game
+[19:42:03] [User Authenticator #2/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[19:42:03] [Server thread/INFO]: Razven[/12.24.35.251:53083] logged in with entity id 2379 at (-255.51460817166108, 66.0, 247.54275739016225)
+[19:42:03] [Server thread/INFO]: Razven joined the game
+[20:02:18] [Server thread/INFO]: Boozila lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:02:18] [Server thread/INFO]: Boozila left the game
+[20:03:16] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:03:16] [Server thread/INFO]: Razven left the game
+[20:43:28] [User Authenticator #3/INFO]: UUID of player ALEXGAMINGKID is e528a8ed-a3c4-4282-ba8d-58d89670e686
+[20:43:28] [Server thread/INFO]: ALEXGAMINGKID[/174.117.90.66:59867] logged in with entity id 17219 at (-248.5, 66.0, 240.5)
+[20:43:28] [Server thread/INFO]: ALEXGAMINGKID joined the game
+[20:43:33] [Server thread/INFO]: ALEXGAMINGKID has just earned the achievement [Taking Inventory]
+[20:43:58] [Server thread/INFO]: ALEXGAMINGKID lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:43:58] [Server thread/INFO]: ALEXGAMINGKID left the game
+[21:11:02] [User Authenticator #4/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[21:11:02] [Server thread/INFO]: Razven[/24.7.38.252:50976] logged in with entity id 17728 at (-254.69999998807944, 66.0, 245.91388569986583)
+[21:11:02] [Server thread/INFO]: Razven joined the game
+[21:11:05] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:11:05] [Server thread/INFO]: Razven left the game
