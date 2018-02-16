@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/minecraft/minecraftserver && git add --all && git commit -m "Backing up" && git reset $(git commit-tree HEAD^{tree} -m "Squishing commits") && git push -u --force origin alex_raz_feb_2018
+
