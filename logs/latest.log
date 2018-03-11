@@ -1,0 +1,36 @@
+[15:08:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:08:53] [Server thread/INFO]: Loading properties
+[15:08:53] [Server thread/INFO]: Default game type: SURVIVAL
+[15:08:53] [Server thread/INFO]: Generating keypair
+[15:08:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:08:53] [Server thread/INFO]: Using epoll channel type
+[15:08:54] [Server thread/INFO]: Preparing level "world"
+[15:08:54] [Server thread/INFO]: Loaded 488 advancements
+[15:08:54] [Server thread/INFO]: Preparing start region for level 0
+[15:08:56] [Server thread/INFO]: Preparing spawn area: 0%
+[15:08:57] [Server thread/INFO]: Preparing spawn area: 18%
+[15:08:58] [Server thread/INFO]: Preparing spawn area: 50%
+[15:08:59] [Server thread/INFO]: Preparing spawn area: 73%
+[15:09:00] [Server thread/INFO]: Done (6.069s)! For help, type "help" or "?"
+[15:09:20] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[15:09:21] [Server thread/INFO]: Razven[/67.188.116.212:60954] logged in with entity id 227 at (57.79368172217642, 87.0, 149.0387259353929)
+[15:09:21] [Server thread/INFO]: Razven joined the game
+[15:09:30] [Server thread/INFO]: Razven lost connection: Disconnected
+[15:09:30] [Server thread/INFO]: Razven left the game
+[15:16:37] [User Authenticator #2/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[15:16:37] [Server thread/INFO]: Razven[/67.188.116.212:61266] logged in with entity id 558 at (57.79368172217642, 87.0, 149.0387259353929)
+[15:16:37] [Server thread/INFO]: Razven joined the game
+[15:16:44] [User Authenticator #3/INFO]: UUID of player Tcrs527 is 1628dd0d-b4db-40cc-bec8-33d9ccade79a
+[15:16:44] [Server thread/WARN]: Invalid statistic in ./world/stats/1628dd0d-b4db-40cc-bec8-33d9ccade79a.json: Don't know what achievement.openInventory is
+[15:16:44] [Server thread/WARN]: Invalid statistic in ./world/stats/1628dd0d-b4db-40cc-bec8-33d9ccade79a.json: Don't know what achievement.exploreAllBiomes is
+[15:16:44] [Server thread/INFO]: Tcrs527[/76.68.18.64:57947] logged in with entity id 804 at (-21.308031029425802, 163.0, 223.3157566260755)
+[15:16:44] [Server thread/INFO]: Tcrs527 joined the game
+[15:16:51] [Server thread/WARN]: Razven moved too quickly! 1.6337526568040346,0.0,10.028576952662746
+[15:17:17] [Server thread/WARN]: Razven moved too quickly! -9.902272385901902,0.0,-2.404273338026286
+[15:18:13] [Server thread/INFO]: Tcrs527 fell from a high place
+[15:23:40] [Server thread/INFO]: Razven lost connection: Disconnected
+[15:23:40] [Server thread/INFO]: Razven left the game
+[15:23:42] [Server thread/INFO]: Tcrs527 lost connection: Disconnected
+[15:23:42] [Server thread/INFO]: Tcrs527 left the game
+[15:24:10] [Server Shutdown Thread/INFO]: Stopping server
+[15:24:10] [Server Shutdown Thread/INFO]: Saving players
