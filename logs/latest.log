@@ -1,0 +1,102 @@
+[01:32:49] [Server thread/INFO]: Starting minecraft server version 1.9
+[01:32:49] [Server thread/INFO]: Loading properties
+[01:32:49] [Server thread/INFO]: Default game type: SURVIVAL
+[01:32:49] [Server thread/INFO]: Generating keypair
+[01:32:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:32:49] [Server thread/INFO]: Using epoll channel type
+[01:32:49] [Server thread/INFO]: Preparing level "world"
+[01:32:50] [Server thread/INFO]: Preparing start region for level 0
+[01:32:51] [Server thread/INFO]: Preparing spawn area: 2%
+[01:32:52] [Server thread/INFO]: Preparing spawn area: 51%
+[01:32:53] [Server thread/INFO]: Done (3.159s)! For help, type "help" or "?"
+[01:32:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2164ms behind, skipping 43 tick(s)
+[01:32:59] [User Authenticator #1/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[01:32:59] [Server thread/INFO]: Razven[/107.207.39.71:56193] logged in with entity id 529 at (-27.300694447225734, 62.0, 37.13594723961752)
+[01:32:59] [Server thread/INFO]: Razven joined the game
+[01:33:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3299ms behind, skipping 65 tick(s)
+[01:34:47] [User Authenticator #2/INFO]: UUID of player Ileao is edf7f37a-c5d1-47ee-adc6-43c06be7a453
+[01:34:47] [Server thread/INFO]: Ileao[/173.33.244.114:60420] logged in with entity id 765 at (30.604284722265493, 86.0, -20.60798811746139)
+[01:34:47] [Server thread/INFO]: Ileao joined the game
+[01:34:54] [Server thread/INFO]: Razven fell from a high place
+[01:35:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2082ms behind, skipping 41 tick(s)
+[01:35:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6576ms behind, skipping 131 tick(s)
+[01:35:28] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:35:28] [Server thread/INFO]: Razven left the game
+[01:35:32] [User Authenticator #3/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[01:35:32] [Server thread/INFO]: Razven[/107.207.39.71:56201] logged in with entity id 4722 at (5.474949578259878, 66.0, 12.554817228874516)
+[01:35:32] [Server thread/INFO]: Razven joined the game
+[01:36:04] [Server thread/INFO]: Razven was slain by Enderman
+[01:36:10] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:36:10] [Server thread/INFO]: Razven left the game
+[01:36:24] [User Authenticator #4/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[01:36:24] [Server thread/INFO]: Razven[/107.207.39.71:56204] logged in with entity id 5730 at (5.474949578259878, 66.0, 12.554817228874516)
+[01:36:24] [Server thread/INFO]: Razven joined the game
+[01:36:24] [Server thread/WARN]: Fetching addPacket for removed entity
+[01:36:33] [Server thread/INFO]: Ileao was slain by Enderman
+[01:36:39] [Server thread/INFO]: Ileao lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:36:39] [Server thread/INFO]: Ileao left the game
+[01:37:00] [Server thread/INFO]: Razven was slain by Enderman
+[01:37:01] [User Authenticator #5/INFO]: UUID of player Ileao is edf7f37a-c5d1-47ee-adc6-43c06be7a453
+[01:37:01] [Server thread/INFO]: Ileao[/173.33.244.114:60430] logged in with entity id 6807 at (84.5, 128.0, 152.5)
+[01:37:01] [Server thread/INFO]: Ileao joined the game
+[01:37:04] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:37:04] [Server thread/INFO]: Razven left the game
+[01:37:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2795ms behind, skipping 55 tick(s)
+[01:37:06] [Server thread/INFO]: Ileao lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:37:06] [Server thread/INFO]: Ileao left the game
+[01:37:25] [User Authenticator #6/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[01:37:25] [Server thread/INFO]: Razven[/107.207.39.71:56207] logged in with entity id 7634 at (5.474949578259878, 66.0, 12.554817228874516)
+[01:37:25] [Server thread/INFO]: Razven joined the game
+[01:37:29] [User Authenticator #7/INFO]: UUID of player Ileao is edf7f37a-c5d1-47ee-adc6-43c06be7a453
+[01:37:29] [Server thread/INFO]: Ileao[/173.33.244.114:60438] logged in with entity id 7864 at (30.604284722265493, 86.0, -20.60798811746139)
+[01:37:29] [Server thread/INFO]: Ileao joined the game
+[01:38:50] [Server thread/INFO]: Ileao lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:38:50] [Server thread/INFO]: Ileao left the game
+[01:38:53] [User Authenticator #8/INFO]: UUID of player Ileao is edf7f37a-c5d1-47ee-adc6-43c06be7a453
+[01:38:53] [Server thread/INFO]: Ileao[/173.33.244.114:60454] logged in with entity id 7972 at (8.598192266149248, 76.55483561505035, 1.5842171149822217)
+[01:38:53] [Server thread/INFO]: Ileao joined the game
+[01:39:39] [Server thread/INFO]: Ileao lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:39:39] [Server thread/INFO]: Ileao left the game
+[01:39:41] [User Authenticator #9/INFO]: UUID of player Ileao is edf7f37a-c5d1-47ee-adc6-43c06be7a453
+[01:39:41] [Server thread/INFO]: Ileao[/173.33.244.114:60461] logged in with entity id 8046 at (31.687238194757054, 72.00323141497478, -9.671510078144133)
+[01:39:41] [Server thread/INFO]: Ileao joined the game
+[01:40:05] [Server thread/INFO]: Razven was slain by Enderman
+[01:40:11] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:40:11] [Server thread/INFO]: Razven left the game
+[01:40:25] [User Authenticator #10/INFO]: UUID of player Razven is c164632e-014c-4d87-84a5-608d16cf4d75
+[01:40:25] [Server thread/INFO]: Razven[/107.207.39.71:56212] logged in with entity id 9264 at (19.69999998807907, 64.0, 11.46580644050452)
+[01:40:25] [Server thread/INFO]: Razven joined the game
+[01:42:24] [Server thread/INFO]: Razven has just earned the achievement [The End.]
+[01:42:31] [Server thread/INFO]: Ileao has just earned the achievement [The End.]
+[01:43:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2550ms behind, skipping 51 tick(s)
+[01:43:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2165ms behind, skipping 43 tick(s)
+[01:44:28] [Server thread/WARN]: Ileao moved too quickly! -7.447736245883931,1.252203340253729,-6.857157182115856
+[01:44:28] [Server thread/WARN]: Razven moved too quickly! -0.4489977553509874,1.0013359791121417,-10.065927707963368
+[01:44:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2322ms behind, skipping 46 tick(s)
+[01:44:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3027ms behind, skipping 60 tick(s)
+[01:45:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2183ms behind, skipping 43 tick(s)
+[01:45:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3736ms behind, skipping 74 tick(s)
+[01:45:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2524ms behind, skipping 50 tick(s)
+[01:46:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2274ms behind, skipping 45 tick(s)
+[01:46:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2860ms behind, skipping 57 tick(s)
+[01:47:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2334ms behind, skipping 46 tick(s)
+[01:47:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2249ms behind, skipping 44 tick(s)
+[01:48:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2260ms behind, skipping 45 tick(s)
+[01:48:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2886ms behind, skipping 57 tick(s)
+[01:49:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2122ms behind, skipping 42 tick(s)
+[01:49:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2972ms behind, skipping 59 tick(s)
+[01:49:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2301ms behind, skipping 46 tick(s)
+[01:49:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2508ms behind, skipping 50 tick(s)
+[01:50:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2183ms behind, skipping 43 tick(s)
+[01:50:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2188ms behind, skipping 43 tick(s)
+[01:51:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3340ms behind, skipping 66 tick(s)
+[01:51:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2806ms behind, skipping 56 tick(s)
+[01:52:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2229ms behind, skipping 44 tick(s)
+[01:53:36] [Server thread/INFO]: Razven lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:53:36] [Server thread/INFO]: Razven left the game
+[01:53:43] [Server thread/INFO]: Ileao lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:53:43] [Server thread/INFO]: Ileao left the game
+[01:53:47] [Server Shutdown Thread/INFO]: Stopping server
+[01:53:47] [Server Shutdown Thread/INFO]: Saving players
+[01:53:47] [Server Shutdown Thread/INFO]: Saving worlds
+[01:53:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
