@@ -560,12 +560,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar": {
-    "criteria": {
-      "has_reeds": "2019-04-27 13:34:49 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-06-08 22:12:39 -0700"
@@ -3877,5 +3871,5 @@
     },
     "done": true
   },
-  "DataVersion": 1976
+  "DataVersion": 2207
 }
